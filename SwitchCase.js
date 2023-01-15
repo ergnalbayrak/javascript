@@ -30,4 +30,5 @@ switch(process){
         console.log("Geçersiz İşlem");
 
         
+        
 }
